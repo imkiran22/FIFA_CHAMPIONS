@@ -1,4 +1,4 @@
-const TIMEOUT = 1500;
+const TIMEOUT = 2000;
 
 const renderMarker = (map, data) => {
   const marker = L.marker(data.coords)
