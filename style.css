@@ -11,6 +11,3 @@ html, body {
   max-height: 100%;
 }
 
-.leaflet-marker-icon {
-  transition: all 1.5s;
-}
